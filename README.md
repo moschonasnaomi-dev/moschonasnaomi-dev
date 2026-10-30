@@ -1,4 +1,10 @@
 <!-- DYNAMISCHE HEADER BANNER (Paars naar Roze verloop) -->
+
+<!-- LOPEND KATJE BOVEN DE BANNER -->
+<div align="center" style="margin-bottom: -15px;">
+  <img src="https://media.giphy.com/media/VbnUQIRNNzrD94JnLT/giphy.gif" width="75px" alt="Lopend katje" />
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=220&section=header&text=Hoi,%20ik%20ben%20Naomi!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Code%20&%20Creativiteit&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
