@@ -2,7 +2,7 @@
 
 <!-- LOPEND KATJE BOVEN DE BANNER -->
 <div align="center" style="margin-bottom: -15px;">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="75px" alt="Lopend katje" />
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="75px" alt="Lopend katje" />
 </div>
 
 <div align="center">
