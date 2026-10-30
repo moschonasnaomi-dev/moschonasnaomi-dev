@@ -40,10 +40,10 @@ Welkom op mijn pagina! Ik bouw graag aan webapplicaties en interactieve tools wa
 <!-- GITHUB STATISTIEKEN -->
 ## 📊 GitHub Statistieken
 
-<div align="center">
+<!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moschonasnaomi-dev&show_icons=true&bg_color=1a0933&title_color=ff69b4&text_color=f3e5f5&icon_color=ba68c8&border_color=ff1493&hide_border=false" alt="Naomi's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moschonasnaomi-dev&layout=compact&bg_color=1a0933&title_color=ff69b4&text_color=f3e5f5&border_color=ff1493&hide_border=false" alt="Meest gebruikte talen" />
-</div>
+</div>-->
 
 <br/>
 
